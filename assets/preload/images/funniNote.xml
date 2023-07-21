@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="funniNote.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="10" y="10" width="158" height="155"/>
+	<SubTexture name="green0000" x="178" y="10" width="158" height="155"/>
+	<SubTexture name="pruple hold end instance 10000" x="346" y="10" width="51" height="64"/>
+	<SubTexture name="purple hold piece instance 10000" x="407" y="10" width="51" height="44"/>
+	<SubTexture name="purple0000" x="10" y="175" width="154" height="157"/>
+	<SubTexture name="red0000" x="174" y="175" width="154" height="157"/>
+</TextureAtlas>
