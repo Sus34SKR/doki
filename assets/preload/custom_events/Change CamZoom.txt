@@ -1,0 +1,3 @@
+Change CamZoom
+Value 1 - number
+Value 2 - speed
